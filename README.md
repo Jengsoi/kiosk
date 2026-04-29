@@ -61,14 +61,14 @@
 ## 4. 실행 화면 및 시연
 
 ### 📺 전체 시연 영상 (2분 18초)
-[![빽다방 시연 영상](https://img.youtube.com/vi/2RVQNhutFpM/maxresdefault.jpg)](https://www.youtube.com/watch?v=2RVQNhutFpM)
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=2RVQNhutFpM">
+    <img src="https://img.youtube.com/vi/2RVQNhutFpM/maxresdefault.jpg" width="80%" />
+  </a>
+</p>
 > **위 이미지를 클릭하면 최신 YouTube 시연 영상으로 이동합니다.**
 
-### 📸 주요 기능 상세
-* **메뉴 선택 및 옵션:** 카테고리별 메뉴 구성 및 상세 옵션(온도, 크기 등) 선택
-* **장바구니 시스템:** 품목별 수량 추가/삭제 및 실시간 합계 데이터 갱신
-* **최종 결제 및 출력:** 포인트 적립, 결제 수단 선택 및 영수증 양식 출력
-
+### 📸 주요 기능 상세 스크린샷
 | 메뉴 및 옵션 | 장바구니 제어 | 최종 영수증 |
 | :---: | :---: | :---: |
 | <img src="./RunScreen/옵션들어가있는드코.png" width="100%"> | <img src="./RunScreen/장바구니최초.png" width="100%"> | <img src="./RunScreen/receipt.png" width="100%"> |
@@ -76,6 +76,7 @@
 ---
 
 ### 📝 코드 상세 보기 (Link)
+이미지 파일로 연결된 코드 링크들입니다.
 * [옵션 선택 로직 코드](./RunScreen/옵션선택코드.png)
 * [수량 변경 로직 코드](./RunScreen/수량변경코드.png)
 * [영수증 가격 출력 코드](./RunScreen/영수증가격출력코드.png)
