@@ -9,7 +9,15 @@
 
 ## 1. 프로젝트 개요
 > 실제 빽다방 키오스크의 사용자 경험을 분석하여, 주문부터 결제까지의 전 과정을 Python으로 구현한 응용 소프트웨어 프로젝트입니다. 단순히 기능 구현에 그치지 않고, 팀원 간의 코드 통합을 위해 데이터 흐름을 설계하고 예외 상황을 최소화하는 데 집중했습니다.
-> 
+>
+> ## 🛠 Tech Stack
+
+### Language & IDE
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</p>
 > **<p align="left">
   <img src="./RunScreen/일정표.png" width="40%" />
 </p>**
@@ -38,7 +46,7 @@
   <img src="./RunScreen/메뉴선택.png" width="45%" />
   <img src="./RunScreen/옵션선택.png" width="45%" />
   <img src="./RunScreen/포인트.png" width="45%" />
-  <img src="./RunScreen/결제선택.png" width="45%" />
+  <img src="./RunScreen/결제.png" width="45%" />
   <img src="./RunScreen/영수증전체.png" width="45%" />
 </p>**
 
