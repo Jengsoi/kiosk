@@ -13,15 +13,12 @@
 > **<p align="left">
   <img src="./RunScreen/일정표.png" width="40%" />
 </p>**
-
-## 2. 요구사항 분석 및 설계
+### 📋 2. 요구사항 분석서
 > 개발 전 기획 단계에서 작성한 문서들입니다.
->
-> ### 📋 요구사항 분석서
-> **<p align="left">
-  <img src="./RunScreen/분석서1.png" width="45%" />
-  <img src="./RunScreen/분석서2.png" width="45%" />
-</p>**
+
+| 요구사항 분석 (1) | 요구사항 분석 (2) |
+| :---: | :---: |
+| <img src="./RunScreen/분석서1.png" width="100%"> | <img src="./RunScreen/분석서2.png" width="100%"> |
 >
 > ### 🔄 프로세스 순서도(Flowchart)
 > **<p align="left">
