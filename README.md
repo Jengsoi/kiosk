@@ -24,7 +24,7 @@
 
 ### 📅 프로젝트 일정표
 <p align="left">
-  <img src="./RunScreen/일정표.png" width="40%" />
+  <img src="./RunScreen/일정표.png" width="60%" />
 </p>
 
 ### 📋 요구사항 분석서
@@ -34,7 +34,7 @@
 
 ### 🔄 프로세스 순서도(Flowchart)
 <p align="left">
-  <img src="./RunScreen/순서도.drawio.png" width="40%" />
+  <img src="./RunScreen/순서도.drawio.png" width="50%" />
 </p>
 
 ## 3. 담당 역할 및 핵심 로직
