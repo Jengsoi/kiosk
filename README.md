@@ -27,29 +27,29 @@
 
 ### 1️⃣ 메뉴 카테고리 & 옵션 선택
 <p align="left">
-  <img src="./%EC%8B%A4%ED%96%89%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/옵션들어가있는드코.png" width="45%" />
-  <img src="./%EC%8B%A4%ED%96%89%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/옵션HOT기준.png" width="45%" />
+  <img src="./RunScreen/옵션들어가있는드코.png" width="45%" />
+  <img src="./RunScreen/옵션HOT기준.png" width="45%" />
 </p>
 
 ### 2️⃣ 장바구니 시스템
 선택한 메뉴를 리스트에 담고 수량을 변경하거나 삭제하는 동적 처리 과정입니다.
 <p align="left">
-  <img src="./%EC%8B%A4%ED%96%89%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/장바구니최초.png" width="45%" />
-  <img src="./%EC%8B%A4%ED%96%89%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/장바구니삭제후.png" width="45%" />
+  <img src="./RunScreen/장바구니최초.png" width="45%" />
+  <img src="./RunScreen/장바구니삭제후.png" width="45%" />
 </p>
 
 ### 3️⃣ 최종 결제 및 영수증 출력
 출력 시 글자 길이에 맞춰 정렬을 맞추고, 최종 금액을 산출하여 영수증을 출력합니다.
 <p align="left">
-  <img src="./%EC%8B%A4%ED%96%89%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/receipt.png" width="40%" />
+  <img src="./RunScreen/receipt.png" width="40%" />
 </p>
 
 ---
 
 ## 📝 코드 상세 보기 (Link)
-* [옵션 선택 로직 코드](./%EC%8B%A4%ED%96%89%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/옵션선택코드.png)
-* [수량 변경 로직 코드](./%EC%8B%A4%ED%96%89%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/수량변경코드.png)
-* [영수증 가격 출력 코드](./%EC%8B%A4%ED%96%89%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/영수증가격출력코드.png)
+* [옵션 선택 로직 코드](./RunScreen/옵션선택코드.png)
+* [수량 변경 로직 코드](./RunScreen/수량변경코드.png)
+* [영수증 가격 출력 코드](./RunScreen/영수증가격출력코드.png)
 
 ---
 
