@@ -62,9 +62,9 @@
 
 ## 4. 실행 화면 및 시연
 
-### 📺 전체 시연 영상 (2분)
-[![빽다방 시연 영상](https://img.youtube.com/vi/IZLDnt3M1ew/0.jpg)](https://www.youtube.com/watch?v=IZLDnt3M1ew)
-> **위 이미지를 클릭하면 YouTube 시연 영상으로 이동합니다.**
+### 📺 전체 시연 영상 (2분 18초)
+[![빽다방 시연 영상](https://img.youtube.com/vi/2RVQNhutFpM/maxresdefault.jpg)](https://www.youtube.com/watch?v=2RVQNhutFpM)
+> **위 이미지를 클릭하면 최신 YouTube 시연 영상으로 이동합니다.**
 
 ### 📸 주요 기능 상세
 * **메뉴 선택 및 옵션:** 카테고리별 메뉴 구성 및 상세 옵션(온도, 크기 등) 선택
