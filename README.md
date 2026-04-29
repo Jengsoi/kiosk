@@ -19,9 +19,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
   <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
->일정표<p align="left">
-  <img src="./RunScreen/일정표.png" width="40%" />
-</p>**
+
 2. 요구사항 분석 및 설계
 
 ### 📅 프로젝트 일정표
